@@ -2,7 +2,7 @@
 This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 <p align="center" width="100%">
-<img src=""/>
+<img src="C:\Users\Microsoft-pc\Downloads\Screen Shot 2021-12-22 at 3.41.54 PM.png"/>
 </p>
 
 
