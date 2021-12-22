@@ -1,4 +1,3 @@
-# NLP_Arabic-News-Articles
 # Natural Language Processing Project : Arabic News Articles
 This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
@@ -8,7 +7,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 
 # About the repository:
-- [Project Proposal]()
+- [Project Proposal](https://github.com/Mashael999/NLP_Arabic-News-Articles/blob/main/Proposal/Proposal_Arabic%20News%20Articles.pdf)
 - [Dataset]()
 - [Project MVP]()
 - [Jupyter Notebooks]()
