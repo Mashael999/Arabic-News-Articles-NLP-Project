@@ -8,8 +8,8 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 # About the repository:
 - [Project Proposal](https://github.com/Mashael999/NLP_Arabic-News-Articles/blob/main/Proposal/Proposal_Arabic%20News%20Articles.pdf)
-- [Dataset]()
-- [Project MVP]()
+- [Dataset](https://github.com/Mashael999/NLP-Arabic-News-Articles/tree/main/Dataset)
+- [Project MVP](https://github.com/Mashael999/NLP-Arabic-News-Articles/tree/main/MVP)
 - [Jupyter Notebooks]()
 - [Slides Presentation]()
 - [Report]()
